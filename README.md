@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Minhas Redes Sociais!
+  ### Me segue nas Redes Sociais!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
